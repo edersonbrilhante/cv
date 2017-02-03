@@ -6,6 +6,11 @@
 
 Career developed in the area of Information Technology, with 8 years experience in DevOps and Full-Stack developer. Currently works as DevOps / Full-Stack Developer at Globo.com, projects for automation and integration of infrastructure networks with Apache CloudStack.
 
+Linkedin: https://www.linkedin.com/in/edersonbrilhante/en
+
+Github: https://github.com/edersonbrilhante
+
+<hr>
 <h1>Skills:</h1>
 
 * Python, PHP, Javascript, Perl
@@ -36,8 +41,6 @@ Career developed in the area of Information Technology, with 8 years experience 
 
 * Django, Flask, Codeigniter
 
-Linkedin: https://www.linkedin.com/in/edersonbrilhante/en
-Github: https://github.com/edersonbrilhante
 <hr>
 <h1>Last Jobs:</h1>
 
