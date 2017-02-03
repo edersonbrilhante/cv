@@ -1,5 +1,7 @@
 <h1>Ederson Brilhante</h1>
+
 <i>DevOps/Full-Stack Developer</i>
+
 <i>Brazilian, living in Rio de Janeiro/Brazil</i>
 
 Career developed in the area of Information Technology, with 8 years experience in DevOps and Full-Stack developer. Currently works as DevOps / Full-Stack Developer at Globo.com, projects for automation and integration of infrastructure networks with Apache CloudStack.
@@ -86,7 +88,6 @@ Code of projects don’t are available on the internet. Contacts to confirm info
 
 * CEO of company: https://www.linkedin.com/in/diego-de-lima-23464315/pt
 
-<br>
 <h2>Full Stack Developer at Gempre</h2>
 September 2009 - April 2010
 
