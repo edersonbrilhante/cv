@@ -1,8 +1,8 @@
-Ederson Brilhante
-26 years old
-Brazilian, living in Rio de Janeiro/Brazil
+<h1>Ederson Brilhante</h1>
+<i>DevOps/Full-Stack Developer</i>
+<i>Brazilian, living in Rio de Janeiro/Brazil</i>
 
-Career developed in the area of Information Technology, with 8 years experience in DevOps and Full-Stack developer. Currently works as DevOps / Full-Stack Developer at Globo.com, projects for automation and integration of infrastructure networks with Apache CloudStack .
+Career developed in the area of Information Technology, with 8 years experience in DevOps and Full-Stack developer. Currently works as DevOps / Full-Stack Developer at Globo.com, projects for automation and integration of infrastructure networks with Apache CloudStack.
 
 Skills:
 * Python, PHP, Javascript, Perl
@@ -12,7 +12,8 @@ Skills:
 * Apache Qpid, Apache ActiveMQ
 * HTML and CSS
 * MVC
-* GIT, Jenkins
+* GIT
+* CI/CD automation
 * Netconf protocols, SNMP and WMI
 * Icontrol F5 Load Balancer
 * CentOS, RedHat, Ubuntu 
