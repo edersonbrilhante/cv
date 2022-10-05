@@ -1,160 +1,120 @@
 <h1>Ederson Brilhante</h1>
 
-<i>DevOps/Full-Stack Developer</i>
+Senior Developer/DevSecOps with 11 years of professional experience, where most of my experience comes from working in large internet companies from Latin America, UK and US.
+Most of my experience lies in backend development of tools, APIs and services to automate the management, deployment orchestration of infrastructure and security in Data Center on-prem or AWS. 
+Furthermore, I work using DevSecOps principles for deployment, maintenance, support and troubleshooting of my code in production.
 
-<i>Brazilian, living in Rio de Janeiro/Brazil</i>
+---
+Speaker:
+[EN] DevOpsDays Kraków 2022(2022): Building labs using component-based architecture with Terraform and Ansible - Slides: https://bit.ly/dodkrk22_building_labs
 
-Career developed in the area of Information Technology, with 8 years experience in DevOps and Full-Stack developer. Currently works as DevOps / Full-Stack Developer at Globo.com, projects for automation and integration of infrastructure networks with Apache CloudStack.
+[PT-BR] PyBR14(2018): Mapeando 1 milhão de recursos em uma Cloud - https://www.youtube.com/watch?v=J79oYdHsIp0 - Slides: bit.ly/talk_fisl_globomap
 
-Linkedin: https://www.linkedin.com/in/edersonbrilhante/en
+[PT-BR] FISL18(2018): Do provisionamento à documentação dos recursos de rede na Globo.com com SL - Slides: bit.ly/fisl2018_globonetworkapi
 
-Github: https://github.com/edersonbrilhante
+[PT-BR] Python Nordeste 2018(2018): Mapeando 1 milhão de recursos em uma Cloud - Slides: bit.ly/talk_fisl_globomap
 
-<hr>
-<h1>Skills:</h1>
+[PT-BR] FISL18(2018): Mapeando 1 milhão de recursos em uma Cloud - https://www.youtube.com/watch?v=2FOLFYksu1c - Slides: bit.ly/talk_fisl_globomap
 
-* Python, PHP, Javascript, Perl
+[PT-BR] GTER44(2017): GloboNetworkAPI  "Network as a Service" - Video: https://www.youtube.com/watch?v=cqDIdQvxpGs 
 
-* Relational Database (Oracle, PostgreSQL, MySQL) 
+[PT-BR] FISL17(2016): Nós somos o BrasiLeaks! - https://www.youtube.com/watch?v=ZB3PTcPB1_Q
 
-* NoSQL Database (MongoDB and Cassandra) 
+[PT-BR] FISL16(2015): Edward Snowden, Citizenfour e a Espionagem Global - https://www.youtube.com/watch?v=jyMLKIQSrnQ
 
-* RRD - Round Robin Database 
+--- 
+Open Source:
+GitHub: https://github.com/edersonbrilhante 
+GitLab: https://gitlab.com/edersonbrilhante
+Blog: https://dev.to/edersonbrilhante
 
-* Apache Qpid, Apache ActiveMQ
+---
+Cliftonstrengths: 
+Maximizer |  Competition | Focus | Significance | Command
 
-* HTML and CSS
-
-* MVC
-
-* GIT
-
-* CI/CD automation
-
-* Netconf protocols, SNMP and WMI
-
-* Icontrol F5 Load Balancer
-
-* CentOS, RedHat, Ubuntu 
-
-* Apache and NGINX, Gunicorn
-
-* Django, Flask, Codeigniter
-
-<hr>
-<h1>Last Jobs:</h1>
-
-<h2>DevOps/Full-Stack Developer na Globo.com (www.globo.com)</h2>
-
-September 2015 - Atually
-
-Currently works as DevOps / Full-Stack Developer at Globo.com, projects for automation and integration of infrastructure networks with Apache CloudStack
-
-<h3>Projects:</h3>
-* <b>GloboNetworkAPI</b>
-(September 2015 - Atually) - API to automate IP Networking documentation, resource allocation and provisioning. 
-https://github.com/globocom/GloboNetworkAPI
-
-* <b>GloboNetworkAPI WebUI</b>
-(September 2015 - Atually) - Web UI to GloboNetworkAPI .
-https://github.com/globocom/GloboNetworkAPI-WebUI
-
-* <b>GloboNetworkAPI client python</b>
-(September 2015 - Atually) - Client in python to use GloboNetworkAPI.
-https://github.com/globocom/GloboNetworkAPI-client-python
-
-<h2>DevOps/Full-Stack Developer at Terra Networks (www.terra.com.br)</h2>
-July 2011 - August 2015
-
-Analysis and development of softwares for monitoring systems and services company and process automation:
-
-Analysis and development of a software that allows anyone responsible (owner) of a vlan can change the line filter, through a usual and intuitive interface.
-System divided into two parts: the part of the User interface, being made in php, html, js and css. The part that communicates with the network equipment several motes and juniper models in python and java using Netconf protocol.
-
-Analysis and development of a software that centralizes the information crises, maintaining a process of standardization and transfer of information to employees.
-System made in php, html, js and css, with Oracle database.
-
-Analysis and development of a software that allows anyone, even without knowledge of command lines, for VLANs configuration of all brands and versions of the company's switches. System divided into two parts: the part of the User interface, being made in php, html, js and css. The part that communicates with the network equipment in python, using the Netconf protocol. In addition, a full ACL and, with historical and versioning per filter line or complete filter
-
-Development and maintenance of infrastructure monitoring tool, to collect data from 1,500 servers and network devices distributed data centers in Brazil and the USA.
-System made php, python, perl, Oracle database, rrd database, Apache Qpid, html, js, css.
-
-Use and Jenkins setting for creating packages, unitary testing, installation approval environments.
-
-<h3>Projects:</h3>
-* <b>NetFilter</b>
-(2014) - Project to create rules of ACL of easy mode for any person. Analysis and development of a system that allows anyone, owner of a vlan, can change the line of ACL, through a usual and intuitive interface.
-
-* <b>NetMan</b>
-(2013) - Analysis and development of a system that allows anyone, even without knowledge of command lines, for VLANs configuration of all brands and versions of the company's switches.
-
-* <b>Semon</b>
-(May 2011 - September 2015) - Project similar to nagios and zabbix. Creating a monitoring platform for analysis of capacity and performance-based rules and service levels with multiple protocols such as SNMP support, and WMI APIs.
-
-Code of projects don’t are available on the internet. Contacts to confirm informations:
-* Coordenator of team: https://www.linkedin.com/in/hoffmanncharles
-* Manager of team: https://www.linkedin.com/in/ruyneto/pt
-
-<h2>Software Development Analyst at Sistemica Computadores (www.sistemica.info)</h2>
-May 2010 - June 2011
+---
 
 
-Modules development tools, and applications in the ERP existing company, www.plune.com.br, in addition to other activities such as creating web sites for clients of Systemic. Using PERL programming language, javascript OO extended the prototype library, PG / PL SQL language. In addition to the CSS and HTML and TOOLKIT extended the PERL. Also knowledge of ERP business rules for maintenance and or modifications that may be added or changed.
+Experience
 
-Code of projects don’t are available on the internet. Contacts to confirm informations:
+Site Reliability Engineer
+Splunk
 
-* CEO of company: https://www.linkedin.com/in/diego-de-lima-23464315/pt
+Apr 2022 – Presen
 
-<h2>Full Stack Developer at Gempre</h2>
-September 2009 - April 2010
+Working as SRE in observability team
 
-Develop systems for enterprise, along with managing other programmers, working with the most advanced technologies in the market: PHP-oriented object-oriented JavaScript libraries (jQuery, entres others), CSS (2.1 and 3) javacript, ajax, template power. Total development of the main selling system MentorPlus company, a reader of telephonic accounts, with adjustments, retaxing, with users profiles, inventory control, control persons, phones, and many other functions that make the very complete system
 
-<h3>Projects:</h3>
-* <b>Mentor Plus</b>
-(2009 - 2010)
+Software Engineer
+Splunk
 
-Design, development and maintenance of MentorPlus system. A reader telephonic accounts, with adjustments of prices, with user profiles, inventory control, control persons, phones, and many other functions that make the very complete system
+May 2021 – Apr 2022
 
-Code of projects don’t are available on the internet. 
+Working as Software Engineer the Getting Data Into (GDI) department to build Splunk Add-ons, participating in the whole cycle of development: lab deployment, coding, CIM mapping, tests, documentation and release.
 
-Contacts to confirm informations:
+Related knowledge: Bash Script, Python, Docker, Packer, Terraform, Ansible, Splunk, IT Add-ons, Databases, Linux, AWS, CloudShare, Test Automation, Teamwork, Engineering.
 
-* CEO of company: https://www.linkedin.com/in/helder-fioravanti-0439812a
 
-<hr>
-<h1>Others Projects:</h1>
-<h2>Trafeguebem</h2>
-(May 2011 - December 2012)
+Open Source Contributor
+Open Source
 
-Final project in college
+2015 – Present
 
-The website has the ideal help public transport users to find information needed for their displacement. And aims to cover the entire state of Rio Grande do Sul. Today is already mapped the entire city of Porto Alegre, with all bus lines, stocking, stops, taxi stops and schedules.
-https://github.com/edersonbrilhante/trafeguebem - Site: www.trafeguebem.com.br
+Contributing to Open Source Projects. 
 
-<hr>
-<h1>Education</h1>
+GitHub: https://github.com/edersonbrilhante 
 
-<h2>Universities</h2>
+Biggest contributions:
+- https://github.com/edersonbrilhante/vilicus
+- https://github.com/globocom/huskyCI
+- https://github.com/globocom/globomap
+- https://github.com/globocom/GloboNetworkAPI
 
-<h3>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Porto Alegre</h3>
-www.poa.ifrs.edu.br
+Related knowledge: Bash Script, Python, Golang, Security Scanning Tool, Docker, Microservices, CI, CD, Git, Problem Solving, Engineering.
 
-<b>Bachelor of Business Administration (B.B.A.), Business Administration and Management.</b>
 
-2014 - 2015 (Incomplete)
+Senior DevSecOps
+Grand Parade
 
-<h2>Faculdade de Tecnologia Pastor Dohms(Tecnodohms/ IBGEN)</h2>
-www.ibgen.com.br
+Jan 2019 – Feb 2021 
 
-<b>Bachelor in Internet Systems, Computer Systems Networking and Telecommunications.</b>
+Development and deployment of security central services through APIs, services, and tooling, to help the development teams adding security stages in the development cycle.
 
-2009 - 2012 (Complete) 
+Related knowledge: Bash Script, Python, Golang, DevSecOps, AWS Resources, Security Scanning Tools, Containers, Kubernetes, Helm, Terraform, Docker, Microservices, CI, CD, DevOps, Leadership, Teamwork, Engineering.
 
-<h2>High school and technical course</h2>
-<h3>Instituto de Educação Ivoti</h3>
-www.iei.org.br
 
-<b>Computer Technician</b>
+Senior Backend Developer
+Globo
 
-2005 - 2007 (Complete)
+Sep 2015 – Dec 2018
+
+Development of projects for automation and integration of networking infrastructure to use in private cloud
+Development of API and system to automate IP Networking documentation, resource allocation and provisioning.
+Development of a platform for automate the mapping +1 million resources of cloud, that are distributed in a environment Everything as a Service, storing 
+Monitoring and troubleshooting unexpected behaviour preventing downtimes and failures.
+
+Related knowledge: Python, Django, Flask, NGINX, Gunicorn, RESTful APIs, Memcached, Redis, RabbitMQ, MySQL, ArangoDB, CentOS, Docker, Tsuru, NaaS, NVF, SDN, Networking Protocols, DevOps, Teamwork.
+
+​System​ ​Analyst/Programmer
+Terra
+
+Jul 2011 – Aug 2015
+
+Improve monitoring and troubleshooting through the development of a monitoring system aiming to concentrate more than 60k application and infrastructure metrics that were distributed among different system 
+Standardization of a new monitoring policy enabling to all applications be equally monitored
+Creation of a software centralizer information about crisis and issues, maintaining a process of standardization and transfer of information to employees
+Creation of web application enabling visualization and analysis of data stored on RRD databases 
+Creation of web application to control, versioning and deploy of ACL of switches
+
+Related knowledge: Python, PHP, HTML, Javascript, RRD tools, Netconf protocols, SNMP and WMI Protocols, Networking Protocols, Apache QPID, MySQL, Oracle.
+
+
+Education
+
+Tecnodohms/IBGEN
+Bachelor's degree, Computer Systems Networking and Telecommunications
+
+2009 – 2012
+
+Skills
+Linux  Microservices  DevOps  Troubleshooting  Shell Scripting  Python  aws  Docker  Terraform  Helm Charts
