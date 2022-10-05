@@ -24,8 +24,11 @@ Speaker:
 
 --- 
 Open Source:
+
 GitHub: https://github.com/edersonbrilhante 
+
 GitLab: https://gitlab.com/edersonbrilhante
+
 Blog: https://dev.to/edersonbrilhante
 
 ---
@@ -40,7 +43,7 @@ Experience
 Site Reliability Engineer
 Splunk
 
-Apr 2022 – Presen
+Apr 2022 – Present
 
 Working as SRE in observability team
 
@@ -95,7 +98,7 @@ Monitoring and troubleshooting unexpected behaviour preventing downtimes and fai
 
 Related knowledge: Python, Django, Flask, NGINX, Gunicorn, RESTful APIs, Memcached, Redis, RabbitMQ, MySQL, ArangoDB, CentOS, Docker, Tsuru, NaaS, NVF, SDN, Networking Protocols, DevOps, Teamwork.
 
-​System​ ​Analyst/Programmer
+Software Developer
 Terra
 
 Jul 2011 – Aug 2015
@@ -109,12 +112,13 @@ Creation of web application to control, versioning and deploy of ACL of switches
 Related knowledge: Python, PHP, HTML, Javascript, RRD tools, Netconf protocols, SNMP and WMI Protocols, Networking Protocols, Apache QPID, MySQL, Oracle.
 
 
-Education
+<i>Education</i>
 
 Tecnodohms/IBGEN
 Bachelor's degree, Computer Systems Networking and Telecommunications
 
 2009 – 2012
 
-Skills
+<i>Skills</i>
+
 Linux  Microservices  DevOps  Troubleshooting  Shell Scripting  Python  aws  Docker  Terraform  Helm Charts
